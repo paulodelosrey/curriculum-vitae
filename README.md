@@ -26,17 +26,17 @@ Soy un desarrollador de software y estudiante de Ingeniería de Sistemas con exp
 
 ## Experiencia Profesional
 
-### Administrador en Emma's Designs
+### Desarrollador Freelancer / Instructor Desarrollo Web Independiente
 **Dic 2023 - Presente**
+
+### Asistente de Líder de Negocio en Natura
+**Nov 2023 - Feb 2024**
 
 - Brindé soporte en una plataforma de gestión de ventas en la nube, generando reportes y documentos.
 - Resolví dudas sobre pedidos en línea y desarrollé soluciones para mejorar la comunicación con consultores.
 - Utilicé integraciones tecnológicas como extensiones de Google Chrome para WhatsApp Web.
 
-### Desarrollador Freelancer / Instructor Desarrollo Web Independiente
-**Nov 2023 - Feb 2024**
-
-### Asistente de Líder de Negocio en Natura
+### Administrador en Emma's Designs
 **Oct 2021 - Oct 2022**
 
 - Realicé ventas de sublimación industrial y diseños a clientes nacionales e internacionales.
