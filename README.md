@@ -66,6 +66,8 @@ Soy un desarrollador de software y estudiante de Ingeniería de Sistemas con exp
 - **The Frontend Developer Career Path**, SCRIMBA, 2023
 - **Técnico Laboral en Mercadeo y Ventas**, ITSA, 2011
 
+![image](https://github.com/user-attachments/assets/1b029e3e-ccf2-454c-a515-9782024d1658)
+
 ---
 
 ## Idiomas
